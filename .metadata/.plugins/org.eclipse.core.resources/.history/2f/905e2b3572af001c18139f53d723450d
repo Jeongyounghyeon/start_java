@@ -1,0 +1,11 @@
+package tutorial21;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Fruit fruit = new Banana();
+		fruit.show();
+	}
+
+}

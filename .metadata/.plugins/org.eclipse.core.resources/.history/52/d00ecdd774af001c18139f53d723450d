@@ -1,0 +1,13 @@
+package tutorial23;
+
+public class Warior extends Hero{
+
+	public Warior(String name) {
+		super(name);
+	}
+	
+	public void groundCutting() {
+		System.out.println("대지 가르기!");
+	}
+
+}
